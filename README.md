@@ -15,3 +15,4 @@ Run `KPMP_HOST.bat` on the host and `KPMP_CLIENT.bat` for the joining player. `K
 - Fixed joining players receiving the normal prison-combat command wheel in side-job co-op battles.
 - Preserved the correct side-job battle mode during shared-battle preparation and command selection.
 - Retained shared job state, dynamic roster synchronization, and map visibility fixes.
+Support me on ko-fi if you like what I do. To help me.  https://ko-fi.com/arielmp
