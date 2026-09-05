@@ -2,7 +2,7 @@
 
 Version: 0.12.1.
 
-Requires your own copy of the game. Includes mod components and required replacement files, not a complete game installation.
+Requires your own copy of the game. 
 
 ## Installation and usage
 
